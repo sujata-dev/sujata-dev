@@ -1,16 +1,16 @@
 ### 🌊 &nbsp;Hi, I am Sujata!
-<br/>
+
 
 ### 🪪 &nbsp;About Me
 
-💻 &nbsp;I am a Full Stack with AWS Software Engineer with 5+ years of experience in designing, developing, and delivering high-quality, user-centric solutions as well as a strong commitment to continuous personal and professional development. Additionally, known as a mentor, offering technical guidance and collaborating with cross-functional Agile teams. <br/>
+💻 &nbsp;I am a Full Stack with AWS Software Engineer with 5+ years of experience in designing, developing, and delivering high-quality, user-centric solutions as well as a strong commitment to continuous personal and professional development. Additionally, known as a mentor, offering technical guidance and collaborating with cross-functional Agile teams. <br/><br/>
 🎹 &nbsp;When I'm not coding, you'll find me exploring my creative side through music, writing, and drawing.
-<br/>
+<br/></br/>
 
 ### 💼 &nbsp;Professional Experience
 
 Currently employed as a Software Engineer-II at JPMorganChase.
-<br/>
+<br/><br/>
 
 ### 🧠 &nbsp;Tech Stack
 
@@ -27,7 +27,7 @@ Currently employed as a Software Engineer-II at JPMorganChase.
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-<br/>
+<br/><br/>
 
 ### 📫 &nbsp; How to reach me:
 <a href="https://www.linkedin.com/in/sujata-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=Linkedin&logoColor=white"/></a> &nbsp;
