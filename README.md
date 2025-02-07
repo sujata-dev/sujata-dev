@@ -29,6 +29,6 @@ Currently employed as a Software Engineer-II at JPMorganChase.
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 <br/><br/>
 
-### 📫 &nbsp; Find me on the web:
+### 📫 &nbsp;Find me on the web
 <a href="https://www.linkedin.com/in/sujata-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=Linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:sujatadev97@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
